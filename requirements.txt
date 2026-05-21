@@ -30,3 +30,6 @@ scikit-learn
 
 # UI Framework
 streamlit
+
+# Search API
+tavily-python

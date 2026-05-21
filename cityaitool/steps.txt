@@ -1,0 +1,27 @@
+USER QUESTION
+      ↓
+HumanMessage added to messages
+      ↓
+LLM receives conversation
+      ↓
+LLM decides:
+"Do I need a tool?"
+      ↓
+YES
+      ↓
+Tool Call Generated
+      ↓
+Human Permission Asked
+      ↓
+YES → Execute Tool
+NO  → Skip Tool
+      ↓
+Tool Result Returned
+      ↓
+ToolMessage added
+      ↓
+LLM reads tool output
+      ↓
+LLM generates FINAL ANSWER
+      ↓
+Displayed to User
